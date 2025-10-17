@@ -24,6 +24,11 @@ class ProdiSeeder extends Seeder
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
+            [
+                'nama_prodi' => 'Teknik Metalurgi',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ]
         ]);
     }
 }
